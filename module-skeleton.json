@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-multisite-nextjs",
+  "capabilityKey": "liberusoftware/module-cms-multisite",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-cms-multisite-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/cms/nextjs/multisite.md",
+  "presentationPlan": "projects/cms/nextjs/multisite.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
